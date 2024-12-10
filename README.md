@@ -1,4 +1,4 @@
-# Map
+# Fast Explorer Map
 ## Problem Statement
 When the complexities of representing a 3D world on a 2D plane lead to distortions in mapping, the need for effective and precise geographical and route planning becomes critical.
 
