@@ -379,7 +379,7 @@ class Student : public Passenger {
         void cost_cal(float distance, int cost_per_KM) override {
             float cost = distance * cost_per_KM;
             cout << "Price before student discount = Rs. " << cost << endl;
-            cost = cost * 0.5;
+            cost = cost - (cost * 0.5);
             cout << "Total cost after student discount (50 %) = Rs. " << cost << endl;
         }
 };
@@ -410,7 +410,7 @@ class Elderly : public Passenger {
         void cost_cal(float distance, int cost_per_KM) override {
             float cost = distance * cost_per_KM;
             cout << "Price before elderly discount = Rs. " << cost << endl;
-            cost = cost * 0.8;
+            cost = cost - (cost * 0.8);
             cout << "Total cost after elderly discount (80 %) = Rs. " << cost << endl;
         }
 };
