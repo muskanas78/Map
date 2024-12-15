@@ -20,7 +20,7 @@ Muskan - https://github.com/muskanas78 (Team Lead)
 
 Anaya - https://github.com/anayaaaa0
 
-Hamza - 
+Hamza - https://github.com/Hbtahir
 
 Ahsan - https://github.com/ahsan-shah056
 
